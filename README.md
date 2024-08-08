@@ -15,7 +15,7 @@ To use this project, first clone the repo on your device using the commands belo
 ### Contributor(s)
 * [Marinela Inguito](https://github.com/minguito17)
 * [Katie Mears](https://github.com/KatieMears628)
-* [Sadaf Sadegh Vaziri]
+* [Sadaf Sadegh Vaziri](https://github.com/sadafvaziri)
 
 
 ### Methods  
