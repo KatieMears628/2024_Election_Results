@@ -45,7 +45,7 @@ To use this project, first clone the repo on your device using the commands belo
  
 
 ### Technologies 
-  * Google Collab
+  * Google Collab (Link: https://colab.research.google.com/drive/1RF_gFNdLoCHQEVeAQ_0UeMVmxv5Fcb34?usp=sharing)
   * Python
 
 
